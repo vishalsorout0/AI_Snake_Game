@@ -1,9 +1,12 @@
+
 # 🐍 Snake AI — Deep Q-Learning
 
 An AI-powered Snake game built with Python, Pygame, NumPy, and PyTorch.
 
 The goal of this project is to train an artificial intelligence agent to play the classic Snake game using Deep Q-Learning (DQN). Instead of manually controlling the snake, the agent learns which action to take based on the current game state and the rewards it receives.
-
+---
+<img width="1919" height="1019" alt="Screenshot 2026-08-18 194417" src="https://github.com/user-attachments/assets/84e8b59d-ef93-4120-89fe-67ef4ac20848" />
+---
 ## 🎮 Demo
 
 The agent starts with little knowledge about the game and gradually learns through repeated gameplay.
